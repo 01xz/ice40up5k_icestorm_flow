@@ -1,6 +1,6 @@
 # Try icestorm flow on ice40up5k FPGA
 
-This project is based on the [iCESugar](https://www.muselab-tech.com/wan-quan-shi-yong-kai-yuan-gong-ju-lian-de-fpgadan-ban/) board, using fully open source Verilog-to-Bitstream toolchain(yosys, nextpnr and icestorm).
+This project is based on the [iCESugar](https://www.muselab-tech.com/wan-quan-shi-yong-kai-yuan-gong-ju-lian-de-fpgadan-ban/) board, using fully open source Verilog-to-Bitstream toolchain (yosys, nextpnr and icestorm).
 
 ## Hardware
 
