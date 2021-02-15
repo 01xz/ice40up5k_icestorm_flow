@@ -8,7 +8,7 @@ See [ICESugar](https://github.com/wuxx/icesugar/blob/master/README_en.md) for mo
 
 ## Development environment setup
 
-See [http://www.clifford.at/icestorm/](http://www.clifford.at/icestorm/) for installing the toolchain.
+For installing the toolchain, see [http://www.clifford.at/icestorm/](http://www.clifford.at/icestorm/).
 
 For archlinux, just install icestorm-git, nextpnr-git and yosys-git from the Arch User Repository.
 
